@@ -51,7 +51,7 @@
   <img height="180em" src="https://streak-stats.demolab.com/?user=naevdd&theme=tokyonight&hide_border=true" alt="naevdd streak" />
 </p>
 
-<p>
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naevdd&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="naevdd stats" />
 </p>
 
