@@ -48,15 +48,12 @@
 <br>
 
 <p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=naevdd&theme=tokyonight&hide_border=true" alt="naevdd streak" />
+  <img height="160" src="https://streak-stats.demolab.com/?user=naevdd&theme=tokyonight&hide_border=true" alt="naevdd streak" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=naevdd&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="naevdd stats" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naevdd&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="naevdd stats" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naevdd&theme=tokyonight&langs_count=8&layout=compact&hide_border=true" alt="top languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naevdd&theme=tokyonight&langs_count=8&layout=compact&hide_border=true" alt="top languages" />
 </p>
 
 <br>
