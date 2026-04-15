@@ -2,16 +2,11 @@
 
 <h1 align="center">Naveed Niaz</h1>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Welcome+to+my+GitHub+profile!;I'm+passionate+about+coding...;Nice+to+meet+you!&center=true&size=25&width=435">
-  </a>
-</h1>
-
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/naveed-niaz-6112a0277/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://github.com/naevdd" title="GitHub Profile"><img width="22" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg"> GitHub</a></code>
   <code><a href="https://www.instagram.com/naevdd" title="Instagram Profile"><img width="22" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg"> Instagram</a></code>
+  <code><a href="mailto:naveedniaz2005@gmail.com" title="Email"><img width="22" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg"> Email</a></code>
 </h5>
 
 <br>
@@ -36,6 +31,10 @@
 <p align="center">
   <code><img title="C++" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
   <code><img title="Python" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+  <code><img title="React" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
+  <code><img title="Node.js" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></code>
+  <code><img title="JavaScript" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+  <code><img title="TypeScript" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
   <code><img title="MySQL" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
   <code><img title="TensorFlow" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"></code>
   <code><img title="Git" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
@@ -47,23 +46,28 @@
 
 <h2 align="center">Statistics</h2>
 <br>
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img width="100%" src="https://streak-stats.demolab.com/?user=naevdd&theme=tokyonight&hide_border=true" alt="naevdd streak" />
+      </td>
+      <td width="50%" align="center">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=naevdd&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="naevdd stats" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naevdd&theme=tokyonight&langs_count=8&layout=compact&hide_border=true" alt="top languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
 <p align="center">
-  <div align="center">
-    <a href="https://github.com/naevdd">
-      <img align="left" width="48%" src="https://streak-stats.demolab.com/?user=naevdd&theme=tokyonight&hide_border=true" alt="naevdd streak" />
-    </a>
-    <a href="https://github.com/naevdd">
-      <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api?username=naevdd&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align="center">
-    <a href="https://github.com/naevdd">
-      <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naevdd&theme=tokyonight&langs_count=8&layout=compact&hide_border=true" />
-    </a>
-  </div>
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naevdd&theme=tokyonight&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naevdd&theme=tokyonight&bg_color=1a1b26&hide_border=true" width="100%" alt="Activity Graph"/>
 </p>
 
 <hr>
