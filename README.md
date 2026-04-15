@@ -3,10 +3,10 @@
 <h1 align="center">Naveed Niaz</h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/naveed-niaz-6112a0277/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://github.com/naevdd" title="GitHub Profile"><img width="22" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg"> GitHub</a></code>
-  <code><a href="https://www.instagram.com/naevdd" title="Instagram Profile"><img width="22" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg"> Instagram</a></code>
-  <code><a href="mailto:naveedniaz2005@gmail.com" title="Email"><img width="22" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg"> Email</a></code>
+  <code><a href="https://www.linkedin.com/in/naveed-niaz-6112a0277/" title="LinkedIn Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://github.com/naevdd" title="GitHub Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg"> GitHub</a></code>
+  <code><a href="https://www.instagram.com/naevdd" title="Instagram Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg"> Instagram</a></code>
+  <code><a href="mailto:naveedniaz2005@gmail.com" title="Email"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg"> Email</a></code>
 </h5>
 
 <br>
@@ -47,23 +47,15 @@
 <h2 align="center">Statistics</h2>
 <br>
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img width="100%" src="https://streak-stats.demolab.com/?user=naevdd&theme=tokyonight&hide_border=true" alt="naevdd streak" />
-      </td>
-      <td width="50%" align="center">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=naevdd&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="naevdd stats" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naevdd&theme=tokyonight&langs_count=8&layout=compact&hide_border=true" alt="top languages" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img height="180em" src="https://streak-stats.demolab.com/?user=naevdd&theme=tokyonight&hide_border=true" alt="naevdd streak" />
+  &nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naevdd&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="naevdd stats" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naevdd&theme=tokyonight&langs_count=8&layout=compact&hide_border=true" alt="top languages" />
+</p>
 
 <br>
 <p align="center">
