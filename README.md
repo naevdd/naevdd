@@ -1,41 +1,84 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Naveed Niaz
-===================================================================================================================================
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=naevdd.naevdd">
 
-Undergrad Student
------------------
+<h1 align="center">Naveed Niaz</h1>
 
-I'm trying to get better at coding
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Welcome+to+my+GitHub+profile!;I'm+passionate+about+coding...;Nice+to+meet+you!&center=true&size=25&width=435">
+  </a>
+</h1>
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [naveedniaz2005@gmail.com](mailto:naveedniaz2005@gmail.com)
-* 🧠  I'm learning c++
-* 🤝  I'm open to collaborating on Projects
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/naveed-niaz-6112a0277/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://github.com/naevdd" title="GitHub Profile"><img width="22" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg"> GitHub</a></code>
+  <code><a href="https://www.instagram.com/naevdd" title="Instagram Profile"><img width="22" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg"> Instagram</a></code>
+</h5>
 
-<a href="https://www.github.com/naevdd" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/naevdd?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<br>
 
-### Skills
-
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
+<p align="center">
+  Hi, I'm Naveed Niaz, an Undergrad Student and Software Developer from India.
+  <br>
+  <br>
+  💻 I love writing code and learning new technologies.
+  <br>
+  📚 I’m currently focused on mastering <b>C++</b> and exploring <b>Machine Learning</b>.
+  <br>
+  🤝 I'm open to collaborating on interesting open-source projects.
+  <br>
+  📫 How to reach me: <a href="mailto:naveedniaz2005@gmail.com">naveedniaz2005@gmail.com</a>
 </p>
 
+<hr>
 
-### Socials
+<h2 align="center">Languages & Frameworks & Tools</h2>
+<br>
+<p align="center">
+  <code><img title="C++" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
+  <code><img title="Python" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+  <code><img title="MySQL" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
+  <code><img title="TensorFlow" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"></code>
+  <code><img title="Git" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
+  <code><img title="GitHub" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></code>
+  <code><img title="VS Code" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></code>
+</p>
 
-<p align="left"> <a href="https://www.github.com/naevdd" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/naevdd" target="_blank" rel="noreferrer"> <picture> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/naveed-niaz-6112a0277/" target="_blank" rel="noreferrer"> <picture> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<hr>
 
-### Badges
+<h2 align="center">Statistics</h2>
+<br>
+<p align="center">
+  <div align="center">
+    <a href="https://github.com/naevdd">
+      <img align="left" width="48%" src="https://streak-stats.demolab.com/?user=naevdd&theme=tokyonight&hide_border=true" alt="naevdd streak" />
+    </a>
+    <a href="https://github.com/naevdd">
+      <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api?username=naevdd&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align="center">
+    <a href="https://github.com/naevdd">
+      <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naevdd&theme=tokyonight&langs_count=8&layout=compact&hide_border=true" />
+    </a>
+  </div>
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naevdd&theme=tokyonight&hide_border=true" width="100%"/>
+</p>
 
-<b>My GitHub Stats</b>
+<hr>
 
-<a href="http://www.github.com/naevdd"><img src="https://github-readme-stats.vercel.app/api?username=naevdd&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="naevdd's GitHub stats" /></a>
+<h2 align="center">Connect with me</h2>
+<br>
+<p align="center">
+  Feel free to reach out if you want to talk about tech, projects, or just say hi!
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/naveed-niaz-6112a0277/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/naevdd"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a href="mailto:naveedniaz2005@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+</p>
 
-<a href="http://www.github.com/naevdd"><img src="https://github-readme-streak-stats.herokuapp.com/?user=naevdd&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/naevdd" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naevdd&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=naevdd&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
